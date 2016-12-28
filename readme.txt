@@ -7,3 +7,5 @@ Remote repository is build successfully!
 Read to create a issue.
 
 git pull --rebase origin master
+
+create a new branch is quick.
