@@ -13,3 +13,5 @@ git pull --rebase origin master
 =======
 !!!create a new branch is quick AND simple.###
 >>>>>>> feature1
+
+a new branch:dev
