@@ -8,4 +8,4 @@ Read to create a issue.
 
 git pull --rebase origin master
 
-!!!create a new branch is quick.###
+!!!create a new branch is quick & simple.###
